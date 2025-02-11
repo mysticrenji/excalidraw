@@ -52,6 +52,7 @@
   </figure>
 </div>
 
+[![Build Docker image](https://github.com/mysticrenji/excalidraw/actions/workflows/build-docker.yml/badge.svg?branch=master)](https://github.com/mysticrenji/excalidraw/actions/workflows/build-docker.yml)
 ## Features
 
 The Excalidraw editor (npm package) supports:
